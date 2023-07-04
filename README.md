@@ -12,9 +12,9 @@
   </div>
 </div>
 
-- 🌱 Currently playing around with **Python, ReactJS**
+- 🌱 Currently playing around with **Blazor, ReactJS**
 
-- 💭 Targetting to explore **Blazor, Web3, Blockchain**
+- 💭 Targetting to explore **MAUI, Flutter**
 
 
 
