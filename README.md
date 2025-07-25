@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1546146830-2cca9512c68e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80">
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=danjaniell&label=Profile%20views&color=0e75b6&style=flat" alt="danjaniell" />
-  <div margin="3">
-	  <a href="https://dev.to/danjaniell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="danjaniell" height="15" width="25" /></a>    
+  <img src="https://komarev.com/ghpvc/?username=danjaniell&label=Profile%20views&color=0e75b6&style=flat" alt="danjaniell" />	
+  <div align="right">
+    <a href="https://dev.to/danjaniell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="danjaniell" height="15" width="25" /></a>
   </div>
 </div>
 
