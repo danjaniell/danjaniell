@@ -6,9 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=danjaniell&label=Profile%20views&color=0e75b6&style=flat" alt="danjaniell" />
   <div margin="3">
 	  <a href="https://dev.to/danjaniell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="danjaniell" height="15" width="25" /></a>    
-	  <a href="https://hashnode.com/@danjaniell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@danjaniell" height="15" width="25" /></a>
-	  <a href="https://fb.com/danjaniell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fb" height="15" width="25" /></a>
-	  <a href="https://instagram.com/jdparagas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig" height="15" width="25" /></a>
   </div>
 </div>
 
